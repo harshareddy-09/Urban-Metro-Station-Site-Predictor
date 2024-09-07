@@ -1,4 +1,4 @@
-# Urban-Navigator
+# Urban-Metro-Station-Site-Predictor
 To analyze and predict metro stop locations across Indian cities.
 **Project Overview:**
 Urban Navigator is an ongoing initiative aimed at revolutionizing the planning and optimization of metro infrastructure in Indian cities. As urbanization accelerates, efficient public transportation becomes increasingly critical. This project leverages advanced data science and machine learning techniques to provide actionable insights into where new metro stops should be placed to best serve the population.
