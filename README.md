@@ -37,3 +37,6 @@ Cross-validation techniques were employed to ensure that the models are both acc
 ![chennai_xg](https://github.com/user-attachments/assets/4d773407-7df7-4ff2-9761-ece5b844dbc8)
 
 ![chennai_rf](https://github.com/user-attachments/assets/d600af33-9242-4f6c-8838-e36f82c2fd41)
+
+![Comparision_predicted vs actual](https://github.com/user-attachments/assets/0e32f8e3-6d77-41f7-aad7-268f3ca57890)
+
