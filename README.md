@@ -14,7 +14,6 @@ The core of Urban Navigator is a robust data-driven approach:
 **Technologies Used:**<br />
 Python<br />
 Tkinter (for any UI components)<br />
-SQLite3 (for database management)<br />
 Pandas, NumPy (for data manipulation)<br />
 Scikit-learn (for machine learning models)<br />
 XGBoost<br />
